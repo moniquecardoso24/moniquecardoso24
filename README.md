@@ -10,10 +10,9 @@
  
   
   
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=moniquecardoso24&bg_color=0d1117&color=fb047b&line=fb7ecd&point=ffbde0&area=true&hide_border=true)](https://github.com/moniquecardoso24/github-readme-activity-graph)
 
->
-  
+
+
   
 <div align="center">  
 <a href="www.linkedin.com/in/monique-cardoso21/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
