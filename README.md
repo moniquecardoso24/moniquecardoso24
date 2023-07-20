@@ -6,9 +6,10 @@
 ## Monique aqui :) 🌻
 Bem vindo(a) ao meu perfil! Compartilho aqui o meu aprendizado.
 
-- 👨🏻‍💻 **Estudante autodidata** de Ciência de Dados. 
-- 😊 Metodologia ativa de aprendizado **learning by doing**
-- 🚀 Criando minha própria experiência na área através de projetos de Data Science.
+- 👨🏻‍💻 **Estudante autodidata** de Ciência de Dados
+- 😍 Paixão por aprender e pesquisar coisas novas
+- 🌱 Criando minha própria experiência na área através de projetos de Data Science.
+- 📚 Metodologia ativa de aprendizado - **learning by doing**
 - 🎯 Atualmente mais focada em:
 <div style="display: inline">
   
